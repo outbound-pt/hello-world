@@ -7,6 +7,6 @@ Cheers!
 
 ----------
 
-So four years have passed and here I am once more trying to make something out of my Github account. Let's see if this time around thing take a more productive turn.
+So, four years have passed and here I am once more trying to make something out of my Github account. Let's see if this time around things take a more productive turn.
 
 Be well!
